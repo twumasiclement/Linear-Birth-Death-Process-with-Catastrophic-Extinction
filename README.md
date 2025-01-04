@@ -18,5 +18,5 @@ This study analytically examines the linear birth-death process with catastrophi
 6. `MLE-LogLik-BDC_JuliaFunc.r`: R coupled with Julia codes to speed up MLE of the B-D-C process 
 7. `GMM-Estimation-BDC-process.R`: R Codes for implementing Generalised Method of Moments (GMM) Estimation of the B-D-C process
 8. `BDC-estimation-GW-process.html`: R codes (from a Jupyter Notebook HTML file) for implementing embedded Galton-Watson (GW) Estimation of the B-D-C process
-9. `BDC-LeapSize_StateX_Relationship.r`: R codes to explore the leap size for the two proposed Tau-leaping algorithms of the study
+9. `BDC-LeapSize_StateX_Relationship.r`: R codes to explore the relationships between the leap size, the state, and the leap conditions for the two proposed Tau-leaping algorithms of the study
 10. `Hybrid-Tauleaping-Algorithms-BDC.r`: Main R codes for running the exact SSA and the two Tau-leaping algorithms 
